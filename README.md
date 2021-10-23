@@ -1,6 +1,8 @@
 # **Weather App PWA** 🚀
 ### Progressive Weather Application using React.js <span style="color: red;">❤</span> and OpenWeatherMap API ✨
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ced87e49-e830-4702-9b27-5e23b757144a/deploy-status)](https://app.netlify.com/sites/weatherapp-ppy/deploys)
+
 ## ⚡ **Live** @ [**WeatherApp-ppy.netlify.app**](https://weatherapp-ppy.netlify.app/) 🚀
 
 ## Available Scripts
